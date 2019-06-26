@@ -30,5 +30,8 @@ class ProductPage(BasePage):
         final_account = self.browser.find_element(*ProductPageLocators.NOW_CART_PRICE).text
         final_account = float(re.findall(r'\d+.\d+', final_account)[0].replace(',', '.'))
 
+        final_info = self.browser.find_element(*ProductPageLocators.PRODUCT_INFO).text
+        assert final_info == 'Coders at Work'
+
         print(final_account, initial_account, comodity_price)
         assert final_account == initial_account + comodity_price, "The comodity did not append to cart"

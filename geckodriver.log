@@ -907,3 +907,65 @@ JavaScript error: http://selenium1py.pythonanywhere.com/en-gb/catalogue/coders-a
 JavaScript error: http://selenium1py.pythonanywhere.com/en-gb/catalogue/coders-at-work_207/?promo=offer9, line 718: ReferenceError: oscar is not defined
 [Parent 16215, Gecko_IOThread] WARNING: pipe error (70): Соединение разорвано другой стороной: file /build/firefox-oscv9o/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
 *** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1561539804441	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.G0CxvMxBvW8J"
+1561539812413	Marionette	INFO	Listening on port 35953
+1561539812571	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://selenium1py.pythonanywhere.com/en-gb/catalogue/coders-at-work_207/?promo=offer0, line 614: ReferenceError: oscar is not defined
+JavaScript error: http://selenium1py.pythonanywhere.com/en-gb/catalogue/coders-at-work_207/?promo=offer0, line 718: ReferenceError: oscar is not defined
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1561539818566	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.3zjAQAVqsrId"
+1561539821057	Marionette	INFO	Listening on port 35349
+1561539821086	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://selenium1py.pythonanywhere.com/en-gb/catalogue/coders-at-work_207/?promo=offer1, line 614: ReferenceError: oscar is not defined
+JavaScript error: http://selenium1py.pythonanywhere.com/en-gb/catalogue/coders-at-work_207/?promo=offer1, line 718: ReferenceError: oscar is not defined
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1561539826277	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.M8OKK72PUSZq"
+1561539828928	Marionette	INFO	Listening on port 46531
+1561539828996	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://selenium1py.pythonanywhere.com/en-gb/catalogue/coders-at-work_207/?promo=offer2, line 614: ReferenceError: oscar is not defined
+JavaScript error: http://selenium1py.pythonanywhere.com/en-gb/catalogue/coders-at-work_207/?promo=offer2, line 718: ReferenceError: oscar is not defined
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1561539834409	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.n6agy49O7nhJ"
+1561539836917	Marionette	INFO	Listening on port 34561
+1561539836930	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://selenium1py.pythonanywhere.com/en-gb/catalogue/coders-at-work_207/?promo=offer3, line 614: ReferenceError: oscar is not defined
+JavaScript error: http://selenium1py.pythonanywhere.com/en-gb/catalogue/coders-at-work_207/?promo=offer3, line 718: ReferenceError: oscar is not defined
+[Parent 7664, Gecko_IOThread] WARNING: pipe error (73): Соединение разорвано другой стороной: file /build/firefox-oscv9o/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1561539842056	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.TzpZ4kRwOncI"
+1561539844978	Marionette	INFO	Listening on port 37643
+1561539845116	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://selenium1py.pythonanywhere.com/en-gb/catalogue/coders-at-work_207/?promo=offer4, line 614: ReferenceError: oscar is not defined
+JavaScript error: http://selenium1py.pythonanywhere.com/en-gb/catalogue/coders-at-work_207/?promo=offer4, line 718: ReferenceError: oscar is not defined
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1561539849876	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.WB8ob4sIHRXe"
+1561539852314	Marionette	INFO	Listening on port 42653
+1561539852473	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://selenium1py.pythonanywhere.com/en-gb/catalogue/coders-at-work_207/?promo=offer5, line 614: ReferenceError: oscar is not defined
+JavaScript error: http://selenium1py.pythonanywhere.com/en-gb/catalogue/coders-at-work_207/?promo=offer5, line 718: ReferenceError: oscar is not defined
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1561539857578	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.PgGj2Q6FQJzZ"
+1561539860001	Marionette	INFO	Listening on port 39979
+1561539860164	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://selenium1py.pythonanywhere.com/en-gb/catalogue/coders-at-work_207/?promo=offer6, line 614: ReferenceError: oscar is not defined
+JavaScript error: http://selenium1py.pythonanywhere.com/en-gb/catalogue/coders-at-work_207/?promo=offer6, line 718: ReferenceError: oscar is not defined
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1561539865005	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.P5z0njTgo3RF"
+1561539867417	Marionette	INFO	Listening on port 43733
+1561539867578	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://selenium1py.pythonanywhere.com/en-gb/catalogue/coders-at-work_207/?promo=offer7, line 614: ReferenceError: oscar is not defined
+JavaScript error: http://selenium1py.pythonanywhere.com/en-gb/catalogue/coders-at-work_207/?promo=offer7, line 718: ReferenceError: oscar is not defined
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1561539873290	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.DX3whpQZuNvS"
+1561539875770	Marionette	INFO	Listening on port 35243
+1561539875803	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://selenium1py.pythonanywhere.com/en-gb/catalogue/coders-at-work_207/?promo=offer8, line 614: ReferenceError: oscar is not defined
+JavaScript error: http://selenium1py.pythonanywhere.com/en-gb/catalogue/coders-at-work_207/?promo=offer8, line 718: ReferenceError: oscar is not defined
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1561539881667	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.k0GEnuHfYTLJ"
+1561539884169	Marionette	INFO	Listening on port 46685
+1561539884177	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://selenium1py.pythonanywhere.com/en-gb/catalogue/coders-at-work_207/?promo=offer9, line 614: ReferenceError: oscar is not defined
+JavaScript error: http://selenium1py.pythonanywhere.com/en-gb/catalogue/coders-at-work_207/?promo=offer9, line 718: ReferenceError: oscar is not defined
+[Parent 12496, Gecko_IOThread] WARNING: pipe error (69): Соединение разорвано другой стороной: file /build/firefox-oscv9o/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
