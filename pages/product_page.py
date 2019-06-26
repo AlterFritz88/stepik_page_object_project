@@ -35,3 +35,9 @@ class ProductPage(BasePage):
 
         print(final_account, initial_account, comodity_price)
         assert final_account == initial_account + comodity_price, "The comodity did not append to cart"
+
+    def just_push_button_to_cart(self):
+        to_cart_button = self.browser.find_element(*ProductPageLocators.TO_CART)
+        to_cart_button.click()
+        self.solve_quiz_and_get_code()
+        time.sleep(2)
