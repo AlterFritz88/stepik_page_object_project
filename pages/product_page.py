@@ -25,7 +25,7 @@ class ProductPage(BasePage):
 
 
         to_cart_button.click()
-        #self.solve_quiz_and_get_code()
+        self.solve_quiz_and_get_code()
         time.sleep(2)
         final_account = self.browser.find_element(*ProductPageLocators.NOW_CART_PRICE).text
         final_account = float(re.findall(r'\d+.\d+', final_account)[0].replace(',', '.'))
@@ -39,8 +39,9 @@ class ProductPage(BasePage):
     def just_push_button_to_cart(self):
         to_cart_button = self.browser.find_element(*ProductPageLocators.TO_CART)
         to_cart_button.click()
+
         self.solve_quiz_and_get_code()
-        time.sleep(2)
+
 
     def do_not_see_success_message(self):
         assert self.is_not_element_present(*ProductPageLocators.PRODUCT_INFO)
